@@ -1,0 +1,7 @@
+train: E:\datasets\det_wheat_disease\train\images
+val: E:\datasets\det_wheat_disease\valid\images
+# test: ../test/images
+
+nc: 5
+names: ['Wheat Brown-rust', 'Wheat Healthy', 'Wheat Smut', 'Wheat-Yellow-rust', 'wheat Stem Rust']
+#叶锈病、健康、散黑穗病、黄锈病、秆锈病
